@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mojtaba Boroon\\Desktop\\Cardano\\CardanoDataSetEnrichment\\CardanoDataSetEnrichment.Infrastructure.ExternalServices\\CardanoDataSetEnrichment.Infrastructure.ExternalServices.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mojtaba Boroon\\Desktop\\Cardano\\CardanoDataSetEnrichment\\CardanoDataSetEnrichment.Domain\\CardanoDataSetEnrichment.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mojtaba Boroon\\Desktop\\Cardano\\CardanoDataSetEnrichment\\CardanoDataSetEnrichment.Domain\\CardanoDataSetEnrichment.Domain.csproj",
+        "projectName": "CardanoDataSetEnrichment.Domain",
+        "projectPath": "C:\\Users\\Mojtaba Boroon\\Desktop\\Cardano\\CardanoDataSetEnrichment\\CardanoDataSetEnrichment.Domain\\CardanoDataSetEnrichment.Domain.csproj",
+        "packagesPath": "C:\\Users\\Mojtaba Boroon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mojtaba Boroon\\Desktop\\Cardano\\CardanoDataSetEnrichment\\CardanoDataSetEnrichment.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mojtaba Boroon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mojtaba Boroon\\Desktop\\Cardano\\CardanoDataSetEnrichment\\CardanoDataSetEnrichment.Infrastructure.ExternalServices\\CardanoDataSetEnrichment.Infrastructure.ExternalServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mojtaba Boroon\\Desktop\\Cardano\\CardanoDataSetEnrichment\\CardanoDataSetEnrichment.Infrastructure.ExternalServices\\CardanoDataSetEnrichment.Infrastructure.ExternalServices.csproj",
+        "projectName": "CardanoDataSetEnrichment.Infrastructure.ExternalServices",
+        "projectPath": "C:\\Users\\Mojtaba Boroon\\Desktop\\Cardano\\CardanoDataSetEnrichment\\CardanoDataSetEnrichment.Infrastructure.ExternalServices\\CardanoDataSetEnrichment.Infrastructure.ExternalServices.csproj",
+        "packagesPath": "C:\\Users\\Mojtaba Boroon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mojtaba Boroon\\Desktop\\Cardano\\CardanoDataSetEnrichment\\CardanoDataSetEnrichment.Infrastructure.ExternalServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mojtaba Boroon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Mojtaba Boroon\\Desktop\\Cardano\\CardanoDataSetEnrichment\\CardanoDataSetEnrichment.Domain\\CardanoDataSetEnrichment.Domain.csproj": {
+                "projectPath": "C:\\Users\\Mojtaba Boroon\\Desktop\\Cardano\\CardanoDataSetEnrichment\\CardanoDataSetEnrichment.Domain\\CardanoDataSetEnrichment.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

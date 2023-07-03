@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{4FFA87BC-BE51-45E4-8941-C5EB850ACFF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{2E448457-0C30-4323-B2AD-1920972771E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastracture", "Infrastracture", "{8032A6C5-49FE-430A-8925-4549EAB7B3AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{983CAB86-2694-4E5D-B4E7-D74432385017}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{A3DE0A2A-6BD3-499E-9790-77A2AE2598CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardanoDataSetEnrichment.Application", "CardanoDataSetEnrichment.Application\CardanoDataSetEnrichment.Application.csproj", "{B461F049-0CCD-4009-AE7F-1E35C1F3EA5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardanoDataSetEnrichment.Infrastructure.ExternalServices", "CardanoDataSetEnrichment.Infrastructure.ExternalServices\CardanoDataSetEnrichment.Infrastructure.ExternalServices.csproj", "{1624FF4F-997D-446E-BC35-76C9EA6E5656}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardanoDataSetEnrichment.Domain", "CardanoDataSetEnrichment.Domain\CardanoDataSetEnrichment.Domain.csproj", "{123C0830-4568-4CF8-8BF4-0EBD982161FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardanoDataSetEnrichment.Presentation.Api", "CardanoDataSetEnrichment.Presentation.Api\CardanoDataSetEnrichment.Presentation.Api.csproj", "{07EB0C54-A6B8-4E31-840D-BC8E97AD83AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardanoDataSetEnrichment.Infrastructure.FileReader", "CardanoDataSetEnrichment.Infrastructure.FileReader\CardanoDataSetEnrichment.Infrastructure.FileReader.csproj", "{33F14EA4-F025-42D2-AB36-B442C79F9F51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardanoDataSetEnrichment.Tests", "CardanoDataSetEnrichment.Tests\CardanoDataSetEnrichment.Tests.csproj", "{DFAE59CD-454F-45BC-AF88-6EB3BD068E07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B461F049-0CCD-4009-AE7F-1E35C1F3EA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B461F049-0CCD-4009-AE7F-1E35C1F3EA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B461F049-0CCD-4009-AE7F-1E35C1F3EA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B461F049-0CCD-4009-AE7F-1E35C1F3EA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1624FF4F-997D-446E-BC35-76C9EA6E5656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1624FF4F-997D-446E-BC35-76C9EA6E5656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1624FF4F-997D-446E-BC35-76C9EA6E5656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1624FF4F-997D-446E-BC35-76C9EA6E5656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{123C0830-4568-4CF8-8BF4-0EBD982161FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123C0830-4568-4CF8-8BF4-0EBD982161FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123C0830-4568-4CF8-8BF4-0EBD982161FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123C0830-4568-4CF8-8BF4-0EBD982161FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07EB0C54-A6B8-4E31-840D-BC8E97AD83AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07EB0C54-A6B8-4E31-840D-BC8E97AD83AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07EB0C54-A6B8-4E31-840D-BC8E97AD83AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07EB0C54-A6B8-4E31-840D-BC8E97AD83AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F14EA4-F025-42D2-AB36-B442C79F9F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F14EA4-F025-42D2-AB36-B442C79F9F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F14EA4-F025-42D2-AB36-B442C79F9F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F14EA4-F025-42D2-AB36-B442C79F9F51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFAE59CD-454F-45BC-AF88-6EB3BD068E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAE59CD-454F-45BC-AF88-6EB3BD068E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAE59CD-454F-45BC-AF88-6EB3BD068E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAE59CD-454F-45BC-AF88-6EB3BD068E07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B461F049-0CCD-4009-AE7F-1E35C1F3EA5E} = {4FFA87BC-BE51-45E4-8941-C5EB850ACFF5}
+		{1624FF4F-997D-446E-BC35-76C9EA6E5656} = {8032A6C5-49FE-430A-8925-4549EAB7B3AF}
+		{123C0830-4568-4CF8-8BF4-0EBD982161FF} = {2E448457-0C30-4323-B2AD-1920972771E8}
+		{07EB0C54-A6B8-4E31-840D-BC8E97AD83AA} = {983CAB86-2694-4E5D-B4E7-D74432385017}
+		{33F14EA4-F025-42D2-AB36-B442C79F9F51} = {8032A6C5-49FE-430A-8925-4549EAB7B3AF}
+		{DFAE59CD-454F-45BC-AF88-6EB3BD068E07} = {A3DE0A2A-6BD3-499E-9790-77A2AE2598CE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0025E5CB-F097-4698-A621-292424DD9A53}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Domain\bin\Debug\net6.0\CardanoDataSetEnrichment.Domain.deps.json
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Domain\bin\Debug\net6.0\CardanoDataSetEnrichment.Domain.dll
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Domain\bin\Debug\net6.0\CardanoDataSetEnrichment.Domain.pdb
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Domain\obj\Debug\net6.0\CardanoDataSetEnrichment.Domain.csproj.AssemblyReference.cache
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Domain\obj\Debug\net6.0\CardanoDataSetEnrichment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Domain\obj\Debug\net6.0\CardanoDataSetEnrichment.Domain.AssemblyInfoInputs.cache
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Domain\obj\Debug\net6.0\CardanoDataSetEnrichment.Domain.AssemblyInfo.cs
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Domain\obj\Debug\net6.0\CardanoDataSetEnrichment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Domain\obj\Debug\net6.0\CardanoDataSetEnrichment.Domain.dll
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Domain\obj\Debug\net6.0\refint\CardanoDataSetEnrichment.Domain.dll
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Domain\obj\Debug\net6.0\CardanoDataSetEnrichment.Domain.pdb
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Domain\obj\Debug\net6.0\ref\CardanoDataSetEnrichment.Domain.dll

@@ -1,0 +1,7 @@
+{
+  "CardanoDataSetEnrichment.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mojtaba Boroon\\Desktop\\Cardano\\CardanoDataSetEnrichment\\CardanoDataSetEnrichment.Application",
+  "CardanoDataSetEnrichment.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mojtaba Boroon\\Desktop\\Cardano\\CardanoDataSetEnrichment\\CardanoDataSetEnrichment.Domain",
+  "CardanoDataSetEnrichment.Infrastructure.ExternalServices, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mojtaba Boroon\\Desktop\\Cardano\\CardanoDataSetEnrichment\\CardanoDataSetEnrichment.Infrastructure.ExternalServices",
+  "CardanoDataSetEnrichment.Infrastructure.FileReader, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mojtaba Boroon\\Desktop\\Cardano\\CardanoDataSetEnrichment\\CardanoDataSetEnrichment.Infrastructure.FileReader",
+  "CardanoDataSetEnrichment.Presentation.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mojtaba Boroon\\Desktop\\Cardano\\CardanoDataSetEnrichment\\CardanoDataSetEnrichment.Presentation.Api"
+}

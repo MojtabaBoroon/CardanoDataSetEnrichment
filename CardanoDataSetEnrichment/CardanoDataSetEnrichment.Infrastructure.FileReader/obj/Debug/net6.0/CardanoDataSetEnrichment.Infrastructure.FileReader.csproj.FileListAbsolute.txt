@@ -1,0 +1,15 @@
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.FileReader\bin\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.FileReader.deps.json
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.FileReader\bin\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.FileReader.dll
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.FileReader\bin\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.FileReader.pdb
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.FileReader\bin\Debug\net6.0\CardanoDataSetEnrichment.Domain.dll
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.FileReader\bin\Debug\net6.0\CardanoDataSetEnrichment.Domain.pdb
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.FileReader\obj\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.FileReader.csproj.AssemblyReference.cache
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.FileReader\obj\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.FileReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.FileReader\obj\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.FileReader.AssemblyInfoInputs.cache
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.FileReader\obj\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.FileReader.AssemblyInfo.cs
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.FileReader\obj\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.FileReader.csproj.CoreCompileInputs.cache
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.FileReader\obj\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.FileReader.csproj.CopyComplete
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.FileReader\obj\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.FileReader.dll
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.FileReader\obj\Debug\net6.0\refint\CardanoDataSetEnrichment.Infrastructure.FileReader.dll
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.FileReader\obj\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.FileReader.pdb
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.FileReader\obj\Debug\net6.0\ref\CardanoDataSetEnrichment.Infrastructure.FileReader.dll

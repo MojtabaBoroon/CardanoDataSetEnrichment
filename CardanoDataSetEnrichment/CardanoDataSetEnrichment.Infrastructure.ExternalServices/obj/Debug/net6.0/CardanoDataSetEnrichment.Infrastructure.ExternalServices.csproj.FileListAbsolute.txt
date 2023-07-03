@@ -1,0 +1,15 @@
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.ExternalServices\bin\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.ExternalServices.deps.json
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.ExternalServices\bin\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.ExternalServices.dll
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.ExternalServices\bin\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.ExternalServices.pdb
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.ExternalServices\bin\Debug\net6.0\CardanoDataSetEnrichment.Domain.dll
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.ExternalServices\bin\Debug\net6.0\CardanoDataSetEnrichment.Domain.pdb
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.ExternalServices\obj\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.ExternalServices.csproj.AssemblyReference.cache
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.ExternalServices\obj\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.ExternalServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.ExternalServices\obj\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.ExternalServices.AssemblyInfoInputs.cache
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.ExternalServices\obj\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.ExternalServices.AssemblyInfo.cs
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.ExternalServices\obj\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.ExternalServices.csproj.CoreCompileInputs.cache
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.ExternalServices\obj\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.ExternalServices.csproj.CopyComplete
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.ExternalServices\obj\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.ExternalServices.dll
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.ExternalServices\obj\Debug\net6.0\refint\CardanoDataSetEnrichment.Infrastructure.ExternalServices.dll
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.ExternalServices\obj\Debug\net6.0\CardanoDataSetEnrichment.Infrastructure.ExternalServices.pdb
+C:\Users\Mojtaba Boroon\Desktop\Cardano\CardanoDataSetEnrichment\CardanoDataSetEnrichment.Infrastructure.ExternalServices\obj\Debug\net6.0\ref\CardanoDataSetEnrichment.Infrastructure.ExternalServices.dll

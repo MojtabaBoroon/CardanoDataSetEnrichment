@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/LCk6XR237XFjTNhxDw+c3XkkW5CXFOICs5+s7XieTk=",
+  "Source": "CardanoDataSetEnrichment.Presentation.Api",
+  "BasePath": "_content/CardanoDataSetEnrichment.Presentation.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

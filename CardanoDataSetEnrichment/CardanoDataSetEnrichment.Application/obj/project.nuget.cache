@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PnjJIXrR0s8cNaaWehFOuhn+sLazVXzPcpsF0f7re864xohUTHtsFLdgJaRZaMMv7d9m9aSniFMHQshfy6sbrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mojtaba Boroon\\Desktop\\Cardano\\CardanoDataSetEnrichment\\CardanoDataSetEnrichment.Application\\CardanoDataSetEnrichment.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mojtaba Boroon\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
